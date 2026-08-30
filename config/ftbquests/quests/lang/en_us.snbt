@@ -1,0 +1,330 @@
+{
+	chapter.008E584B040D3CC5.title: "Exploration & Creatures"
+	chapter.054515A6418AE26A.title: "Tech and Storage"
+	chapter.1000000000000001.title: "Welcome"
+	chapter.2000000000000001.title: "Rotational Power"
+	chapter.2112F43D13346B14.title: "Logistics and Automation"
+	chapter.2291D39ED9DBA3DA.title: "Tech & Storage"
+	chapter.3000000000000001.title: "Flight, Power and Fabrication"
+	chapter.364611CD8B276D0E.title: "Random Rewards"
+	chapter.4000000000000001.title: "Furniture and Decoration"
+	chapter.5000000000000001.title: "Cooking and Farming"
+	chapter.5143EDE95AB76A8E.title: "Exploration and Creatures"
+	chapter.6000000000000001.title: "Magic"
+	chapter.6E6ACCFC551E2B7D.title: "Tech and Storage"
+	chapter.7000000000000001.title: "Fun Stuff"
+	chapter.7348880116CB0CC0.title: "1"
+	chapter.77B32BEA21FF02B1.title: "Exploration and Creatures"
+	quest.00FE641023143CC6.quest_desc: ["Smelt Dragonsteel and craft dragon-material gear. This is Ice and Fire's real endgame -- armor and weapons built from what you just fought."]
+	quest.00FE641023143CC6.title: "Dragonsteel"
+	quest.028F59CF5013DC56.quest_desc: ["Craft an Energizing Orb and an Energizing Rod (starter tier). Unlocks the rest of Powah's crafting tree."]
+	quest.028F59CF5013DC56.title: "Energizing Orb"
+	quest.033C662007C8DB7C.quest_desc: ["Craft a Building Gadget Copy/Paste Tool. Copies a structure and lets you paste it elsewhere -- a huge time saver for repetitive builds."]
+	quest.033C662007C8DB7C.title: "Building Gadgets"
+	quest.03E5DE83CEC81B1B.quest_desc: ["Set up a Network Pipe with a Stocking or Provider Pipe -- automatic sorting and item requesting, no manual filtering needed."]
+	quest.03E5DE83CEC81B1B.title: "Smart Pipes"
+	quest.06DA0EDD4F5E0B98.quest_desc: ["Build a Solar Panel or Thermo Generator -- your first automated power source."]
+	quest.06DA0EDD4F5E0B98.title: "Generate Power"
+	quest.07E00042E9E3A469.quest_desc: ["Find and mine an Artifacts trinket -- equip it and see what it does."]
+	quest.07E00042E9E3A469.title: "Ancient Trinkets"
+	quest.0ACD2BF47A62A4C0.quest_desc: ["Find and tame a dragon. Yes, an actual dragon. Ice and Fire adds fire, ice, and lightning breeds -- pick your favorite."]
+	quest.0ACD2BF47A62A4C0.title: "Here Be Dragons"
+	quest.0B4D7AFD7754437F.quest_desc: ["Find a Towns and Towers structure out in the wild -- ready-made settlements to raid, trade with, or move into."]
+	quest.0B4D7AFD7754437F.title: "Settlements"
+	quest.0B7095B37B7B6855.quest_desc: ["Craft an Import Bus and an Export Bus. These move items in and out of your network automatically -- key for hooking machines into AE2."]
+	quest.0B7095B37B7B6855.title: "Import and Export Bus"
+	quest.1000000000000011.quest_desc: ["Step 1 - Get wood"]
+	quest.1000000000000011.title: "Punch a Tree"
+	quest.1000000000000031.quest_desc: [""]
+	quest.1000000000000031.title: "First Tools"
+	quest.1000000000000041.quest_desc: ["Survive your first night. Build shelter, light the area, keep the mobs out."]
+	quest.1000000000000041.title: "Shelter and a Bed"
+	quest.1000000000000051.quest_desc: [
+		"You're set up. From here the quest book branches out into Create machinery, farming, exploration, and more."
+		""
+		"Check the other chapter tabs at the top of this screen to see what's unlocked."
+	]
+	quest.1000000000000051.title: "You're Ready"
+	quest.105E7C45B32E7896.quest_desc: ["Craft a Classic Pipes Wooden Pipe and start moving items."]
+	quest.105E7C45B32E7896.title: "Classic Pipes"
+	quest.120958A4E6DEFAFC.quest_desc: ["Build a logic gate -- a diode, multiplexer, or XOR gate. Real redstone logic, not just repeaters and comparators."]
+	quest.120958A4E6DEFAFC.title: "Logic Gates"
+	quest.13EE5FAE88829055.quest_desc: ["Do a little dance on a plant, see what happens"]
+	quest.13EE5FAE88829055.quest_subtitle: "Do a little dance on a plant, see what happens"
+	quest.165C8BA7B37DCAA1.quest_desc: ["Upgrade your Terminal to a Crafting Terminal -- lets you craft directly from your network instead of pulling items out manually."]
+	quest.165C8BA7B37DCAA1.title: "Crafting Terminal"
+	quest.17189B911B7C821B.quest_desc: ["Spot a Naturalist creature -- bears, mountain goats, and leopards roam the overworld now."]
+	quest.17189B911B7C821B.title: "Realistic Wildlife"
+	quest.192AAE24D645BD93.quest_desc: ["Mine the Certus Quartz Clusters and the Mysterious Cube at the meteorite's center -- the cube gives you all 4 Inscriber Presses."]
+	quest.192AAE24D645BD93.title: "Certus Quartz"
+	quest.1F79825167DD6DCD.quest_desc: ["Find a dragon egg or roost, hatch or tame a dragon, and start collecting Dragon Scales and a Dragon Heart. Fire, ice, and lightning breeds are all fair game -- pick your favorite."]
+	quest.1F79825167DD6DCD.title: "Here Be Dragons"
+	quest.1FAB59EFE43C6769.quest_desc: ["Craft directly from the Storage Terminal's built-in crafting grid using items pulled straight from your linked network."]
+	quest.1FAB59EFE43C6769.title: "Terminal Crafting"
+	quest.2000000000000011.quest_desc: ["Craft your first Cogwheel -- the basic building block of every Create contraption."]
+	quest.2000000000000011.title: "Your First Cogwheel"
+	quest.2000000000000021.quest_desc: ["Build a Water Wheel and get it spinning. Free, endless rotational power -- the classic starting generator."]
+	quest.2000000000000021.title: "Water Wheel"
+	quest.2000000000000031.quest_desc: ["Or go with a Windmill Bearing + Sails if you'd rather harness wind than water. Bigger sail area means more power."]
+	quest.2000000000000031.title: "Windmill (alternative)"
+	quest.2000000000000041.quest_desc: ["Craft an Encased Fan. On its own it just moves air, but face it at water, lava, or fire and it starts doing real processing work -- washing, smoking, blasting, or haunting items depending on what's on the other side."]
+	quest.2000000000000041.title: "Encased Fan"
+	quest.2000000000000051.title: "Rotation Secured"
+	quest.2000000000000061.quest_desc: ["Craft a Mechanical Press. Flattens ingots into sheets and is used in a huge number of Create recipes."]
+	quest.2000000000000061.title: "Mechanical Press"
+	quest.2000000000000071.quest_desc: ["Craft a Millstone. Grinds raw materials down -- an easy way to double ore output early on."]
+	quest.2000000000000071.title: "Millstone"
+	quest.2000000000000081.quest_desc: ["Craft a Mechanical Mixer and a Basin. Together they handle a huge chunk of Create's processing recipes -- think of it as a powered crafting table."]
+	quest.2000000000000081.title: "Mixer and Basin"
+	quest.2000000000000091.quest_desc: ["Craft a pair of Crushing Wheels. Heavier-duty ore processing than the Millstone, and needed for a lot of mid-game recipes."]
+	quest.2000000000000091.title: "Crushing Wheels"
+	quest.2000000000000101.quest_desc: ["Craft a Deployer. It punches, places, and applies items on your behalf -- automation's best friend, and the key to most auto-crafting setups."]
+	quest.2000000000000101.title: "Deployer"
+	quest.2000000000000111.quest_desc: ["Craft a Mechanical Saw. Chops trees and logs automatically, and doubles as a butchering/cutting station for other recipes."]
+	quest.2000000000000111.title: "Mechanical Saw"
+	quest.2000000000000121.quest_desc: ["Alloy up to Brass. This is the next material tier and gates a lot of the more advanced contraptions -- flight, power, and mechanical crafting all want this."]
+	quest.2000000000000121.title: "Brass"
+	quest.2000000000000131.quest_desc: ["Automation foundations are done. From here the questline splits three ways in the next chapter -- Flight, Power, and Mechanical Fabrication. Pick whichever sounds fun first, they don't block each other."]
+	quest.2000000000000131.title: "Foundations Complete"
+	quest.2000000000000141.quest_desc: ["Craft a Blaze Burner. This is your heat source for Create's furnace-tier recipes -- feed it blaze cake or a captured blaze to keep it lit."]
+	quest.2000000000000141.title: "Blaze Burner"
+	quest.2000000000000151.quest_desc: ["Craft a Mechanical Arm. It picks items up from one inventory and places them in another -- the connective tissue of most Create factories."]
+	quest.2000000000000151.title: "Mechanical Arm"
+	quest.2000000000000161.quest_desc: ["Craft a Fluid Pipe and a Fluid Tank. Water wheels aren't the only thing that flows -- lava, honey, chocolate, anything liquid can be piped around now."]
+	quest.2000000000000161.title: "Fluid Pipes and Tanks"
+	quest.2000000000000171.quest_desc: ["Craft a Mechanical Pump and a Spout. The pump pushes fluid through pipes, the spout fills containers and items sitting under it."]
+	quest.2000000000000171.title: "Pump and Spout"
+	quest.2000000000000181.quest_desc: ["Craft a Precision Mechanism. This is the key mid-tier component -- most of Create's bigger machines and Aeronautics parts want at least one of these."]
+	quest.2000000000000181.title: "Precision Mechanism"
+	quest.23A3C0195ECACCA5.title: "Charge It Up"
+	quest.2923AF4F53B22690.quest_desc: ["Mine the Certus Quartz Crystals and the Mysterious Cube at the meteorite's center -- the cube gives you all 4 Inscriber Presses."]
+	quest.2923AF4F53B22690.title: "Meteorite Loot"
+	quest.2F7DF9A2F0D4A126.quest_desc: ["Mine the Certus Quartz Clusters and the Mysterious Cube at the meteorite's center -- the cube gives you all 4 Inscriber Presses."]
+	quest.2F7DF9A2F0D4A126.title: "Certus Quartz"
+	quest.3000000000000011.quest_desc: ["Craft a Wooden Propeller -- the entry point into Create Aeronautics. Attach it to a contraption to start generating thrust."]
+	quest.3000000000000011.title: "Wooden Propeller"
+	quest.3000000000000021.quest_desc: ["Craft a Propeller Bearing. This is what actually mounts a propeller onto a contraption and lets it drive movement."]
+	quest.3000000000000021.title: "Propeller Bearing"
+	quest.3000000000000031.quest_desc: ["Upgrade to an Andesite Propeller for more thrust once you've got brass and andesite alloy flowing."]
+	quest.3000000000000031.title: "Andesite Propeller"
+	quest.3000000000000041.quest_desc: ["Craft an Adjustable Burner for hot air lift -- essential for anything that needs to go up, not just forward."]
+	quest.3000000000000041.title: "Adjustable Burner"
+	quest.3000000000000051.quest_desc: ["Build and fly your first Aeronautics craft. Doesn't need to be pretty -- a propeller, a burner, a seat, that's enough to get off the ground."]
+	quest.3000000000000051.title: "Taking Flight"
+	quest.3000000000000061.quest_desc: ["Build a Create: New Age Energiser. This is the bridge between Create's rotational power and actual electricity."]
+	quest.3000000000000061.title: "Energiser"
+	quest.3000000000000071.quest_desc: ["Run a Wire between two points and actually move electricity somewhere useful."]
+	quest.3000000000000071.title: "Wire Network"
+	quest.3000000000000081.quest_desc: ["Add a Solar Panel or a small Nuclear Reactor to actually generate power for the grid, not just move it around."]
+	quest.3000000000000081.title: "Power Grid Online"
+	quest.3000000000000091.quest_desc: ["Set up a Create: Enchantment Industry station. Turns enchanting into a mechanical process instead of an XP-and-bookshelves ritual."]
+	quest.3000000000000091.title: "Mechanical Enchanting Setup"
+	quest.3000000000000101.quest_desc: ["Actually enchant an item using the mechanical process. No table, no bookshelves, just gears."]
+	quest.3000000000000101.title: "Enchantment Industry"
+	quest.3078FC813D87B09E.quest_desc: ["Craft a Powah Energizing Orb -- it unlocks the rest of the mod's crafting tree."]
+	quest.3078FC813D87B09E.title: "Energizing Orb"
+	quest.342CF345A02937D2.quest_desc: ["Get your hands on a special material -- Crimson Steel or Tyrian Steel. These beat plain iron/diamond gear by a wide margin once you've got the alloy recipe down."]
+	quest.342CF345A02937D2.title: "Special Materials"
+	quest.3ED3EA1273C6496D.quest_desc: ["Build a Stone Anvil and craft a Crude Knife -- your first step into Silent Gear's custom tool system."]
+	quest.3ED3EA1273C6496D.title: "Silent Gear Basics"
+	quest.4000000000000011.quest_desc: ["Grab a Rechiseled Chisel and try it on a stone block. Lets you swap block variants without breaking and replacing."]
+	quest.4000000000000011.title: "Chisel It"
+	quest.4000000000000021.quest_desc: ["Place a piece of Macaw's Furniture -- a table, chair, or shelf. Small touches make a house a home."]
+	quest.4000000000000021.title: "Furnish a Room"
+	quest.4000000000000031.quest_desc: ["Place a Macaw's Fences and Walls piece -- a fence or wall variant that actually matches your build's wood or stone type."]
+	quest.4000000000000031.title: "Build the Bones"
+	quest.4000000000000041.quest_desc: ["Place a Macaw's Windows piece -- these come in a huge range of styles, including ones with curtains."]
+	quest.4000000000000041.title: "Let the Light In"
+	quest.4000000000000051.quest_desc: ["Place a Macaw's Roofs piece. This mod exists specifically to fix vanilla's lack of proper sloped roofs."]
+	quest.4000000000000051.title: "Roofs"
+	quest.4000000000000061.quest_desc: ["Place a Macaw's Paths and Pavings piece -- for outdoor walkways and garden areas that don't just look like flat dirt paths."]
+	quest.4000000000000061.title: "Garden Paths"
+	quest.4000000000000071.quest_desc: ["Put it all together -- a fully decorated room or building using pieces from at least 4 of these branches. This one's about showing it off, not a specific recipe."]
+	quest.4000000000000071.title: "Interior Designer"
+	quest.4030D3E5888BCCAE.quest_desc: ["Find and interact with an Alex's Mobs creature. There's over 80 of them, so this shouldn't take long."]
+	quest.4030D3E5888BCCAE.title: "Wildlife Encounter"
+	quest.428434416B8D1EE8.quest_desc: ["Find and mine an Artifacts trinket -- equip it and see what it does."]
+	quest.428434416B8D1EE8.title: "Ancient Trinkets"
+	quest.42BF507E5405F75F.quest_desc: ["Use a Template with a material of your choice to craft a real Silent Gear tool. Try mixing materials for interesting traits."]
+	quest.42BF507E5405F75F.title: "Custom Tool"
+	quest.46AA30BD52732A6F.quest_desc: ["Find and tame a dragon. Yes, an actual dragon. Ice and Fire adds fire, ice, and lightning breeds -- pick your favorite."]
+	quest.46AA30BD52732A6F.title: "Here Be Dragons"
+	quest.46CEF4FB4DA023D6.quest_desc: ["Craft a Pickaxe Blueprint (or any tool blueprint) and use it to build a real Silent Gear tool from parts. Try mixing materials for interesting traits."]
+	quest.46CEF4FB4DA023D6.title: "Tool Blueprint"
+	quest.48452919B80FA736.quest_desc: ["Build your first ME system: Energy Acceptor, Controller, Drive with a storage cell, and a Terminal."]
+	quest.48452919B80FA736.title: "ME System Online"
+	quest.4863B04D29AA9587.quest_desc: ["Craft a Wireless Terminal and a Wireless Access Point. Access your storage network from anywhere, not just standing at the terminal."]
+	quest.4863B04D29AA9587.title: "Wireless Access"
+	quest.49A00092DB8B2D47.quest_desc: ["Build a Reactor (basic tier). Serious power output, serious consequences if you don't manage the heat. This is Powah's real endgame."]
+	quest.49A00092DB8B2D47.title: "Nuclear Reactor"
+	quest.49E73BABE5616630.quest_desc: ["Three paths open up from here: Flight, Power, and Fabrication. None of them block each other, so tackle them in whatever order sounds fun."]
+	quest.49E73BABE5616630.title: "Three Paths"
+	quest.4C1454D0E46ECDC6.quest_desc: ["Use a Template with a material of your choice to craft a real Silent Gear tool. Try mixing materials for interesting traits."]
+	quest.4C1454D0E46ECDC6.title: "Custom Tool"
+	quest.4CD3B256F7E89580.quest_desc: ["Find a Towns and Towers structure out in the wild -- ready-made settlements to raid, trade with, or move into."]
+	quest.4CD3B256F7E89580.title: "Settlements"
+	quest.4E6391D930393E58.quest_desc: ["Explore a YUNG's structure -- a reworked dungeon, mineshaft, stronghold, or the new Better Caves underground."]
+	quest.4E6391D930393E58.title: "Delve Deep"
+	quest.4FF08B0998CAE2B8.quest_desc: ["Craft a Flint Knife. Farmer's Delight's basic butchering tool -- cut raw meat into better cuts before you even build a station."]
+	quest.4FF08B0998CAE2B8.title: "Flint Knife"
+	quest.5000000000000011.quest_desc: ["Craft a Cutting Board. Most of Farmer's Delight's recipes start here -- chopping vegetables, portioning meat, prepping ingredients."]
+	quest.5000000000000011.title: "Cutting Board"
+	quest.5000000000000021.quest_desc: ["Craft a Cooking Pot. Makes soups and stews -- the mod's heartiest, most filling category of food."]
+	quest.5000000000000021.title: "Cooking Pot"
+	quest.5000000000000031.quest_desc: ["Cook a Vegetable Soup or Beef Stew. Simple, filling, and a solid early-game food source."]
+	quest.5000000000000031.title: "First Stew"
+	quest.5000000000000041.quest_desc: ["Cook a Noodle Soup or Fish Stew. The Cooking Pot's recipe list is long -- explore what you can make with what you're already farming or fishing."]
+	quest.5000000000000041.title: "Noodle Soup"
+	quest.5000000000000051.quest_desc: ["Craft a Skillet. Fried food's home -- crispier and faster than the Cooking Pot's stews."]
+	quest.5000000000000051.title: "Skillet"
+	quest.5000000000000061.quest_desc: ["Fry up some Fried Rice or Bacon and Eggs. Quick, satisfying, and doesn't need a full stew's worth of ingredients."]
+	quest.5000000000000061.title: "Fried Rice"
+	quest.5000000000000071.quest_desc: ["Craft a Stove. Baking's home -- pies, cakes, and the mod's biggest showpiece dishes all go through here."]
+	quest.5000000000000071.title: "Stove"
+	quest.5000000000000081.quest_desc: ["Bake an Apple Pie. Sweet, simple, and a good first project on the Stove."]
+	quest.5000000000000081.title: "Apple Pie"
+	quest.5000000000000091.quest_desc: ["Try right-clicking a fully grown crop instead of breaking it. Right Click Harvest replants automatically -- no more break-and-replant loop."]
+	quest.5000000000000091.title: "The Easy Way"
+	quest.5000000000000101.quest_desc: ["Time for the showpiece. Stuffed Pumpkin and Roast Chicken are Farmer's Delight's signature dishes -- big, multi-ingredient centerpiece foods that take real prep across everything you've unlocked so far."]
+	quest.5000000000000101.title: "Eat Well"
+	quest.504CA381089F2E08.quest_desc: ["Craft a Meteorite Compass and follow it. It points at a Mysterious Cube -- the heart of a meteorite crater."]
+	quest.504CA381089F2E08.title: "Meteorite Compass"
+	quest.51D421AE7B0B356B.quest_desc: ["Find and interact with an Alex's Mobs creature. There's over 80 of them, so this shouldn't take long."]
+	quest.51D421AE7B0B356B.title: "Wildlife Encounter"
+	quest.549AF70CAE9BE9A5.quest_desc: ["Defeat a Hydra. Multiple heads, regenerates if you're not careful with fire -- one of Ice and Fire's toughest fights."]
+	quest.549AF70CAE9BE9A5.title: "Slay the Hydra"
+	quest.5601802FEDAD0AB8.quest_desc: ["Craft a Soldering Table and some Red Alloy Wire. More Red's entry point into a whole redstone logic-gate system beyond vanilla wiring."]
+	quest.5601802FEDAD0AB8.title: "More Red Basics"
+	quest.58176AD4B806C96A.quest_desc: ["Craft Dielectric Paste and Dielectric Casing. Powah's basic material tier -- everything else in the mod builds on this."]
+	quest.58176AD4B806C96A.title: "Dielectric Basics"
+	quest.5B5E5B5A5904DAA3.quest_desc: ["Tame a Hippogryph. Half horse, half eagle, and a genuinely great early flying mount once tamed."]
+	quest.5B5E5B5A5904DAA3.title: "Tame a Hippogryph"
+	quest.5B7898B585737C34.quest_desc: ["Craft a Tom's Storage Terminal and link at least two chests into the network. One searchable interface instead of a wall of labeled chests."]
+	quest.5B7898B585737C34.title: "Tom's Storage"
+	quest.5BAE15261191A62B.quest_desc: ["Three paths open up from here: Flight, Power, and Fabrication. None of them block each other, so tackle them in whatever order sounds fun."]
+	quest.5BAE15261191A62B.title: "Three Paths"
+	quest.5C19A479B300869E.quest_desc: ["Build a Stone Anvil and craft a Crude Knife -- your first step into Silent Gear's custom tool system."]
+	quest.5C19A479B300869E.title: "Silent Gear Basics"
+	quest.6000000000000011.quest_desc: ["Craft the Novice Spellbook: a book, iron shovel, iron pickaxe, iron axe, and iron sword."]
+	quest.6000000000000011.title: "Novice Spellbook"
+	quest.6000000000000021.quest_desc: ["Build a Scribe's Table and unlock your first glyph. This is how you learn new spell pieces."]
+	quest.6000000000000021.title: "Scribe's Table"
+	quest.6000000000000031.quest_desc: ["Compose and cast your first spell -- chain a shape glyph (Touch, Self, Projectile) with an effect glyph (Break, Harm, Leap)."]
+	quest.6000000000000031.title: "Cast Something"
+	quest.6000000000000041.quest_desc: ["Find or grow Archwood trees. These magical trees are a key resource for everything that follows -- planks, saplings, all of it."]
+	quest.6000000000000041.title: "Archwood Trees"
+	quest.6000000000000051.quest_desc: ["Build an Enchanting Apparatus with Arcane Pedestals around it. This is your real spellcrafting station -- crafts wands, casts rituals, and more."]
+	quest.6000000000000051.title: "Enchanting Apparatus"
+	quest.6000000000000061.quest_desc: ["Craft a proper Wand. Better casting stats than your bare hands, and required for a lot of the apparatus's recipes."]
+	quest.6000000000000061.title: "A Proper Wand"
+	quest.6000000000000071.quest_desc: ["Set up a Sourcelink for passive mana. There are several flavors depending on what's nearby -- Agronomic (near crops), Vitalic (near breeding animals), Alchemical (near brewing), Volcanic (near lava), or Mycelial (near mushrooms). Pick whichever fits your base."]
+	quest.6000000000000071.title: "Sourcelink"
+	quest.6000000000000081.quest_desc: ["Grow Magebloom -- a magical crop that gives you Magebloom Fiber for enchanted cloth, capes, and a few late-game recipes."]
+	quest.6000000000000081.title: "Magebloom"
+	quest.6000000000000091.quest_desc: ["Befriend a familiar -- Whirlisprig, Wixie, or Drygmy. Each one has its own passive utility (farming, brewing help, and more). Purely optional, but they're some of the mod's most charming content."]
+	quest.6000000000000091.title: "Familiars"
+	quest.6000000000000101.quest_desc: ["Build a Ritual Brazier and perform a ritual. Fertility for faster crop growth, Flight for temporary levitation -- rituals are one-off powerful effects rather than repeatable spells."]
+	quest.6000000000000101.title: "Rituals"
+	quest.6000000000000111.quest_desc: ["Upgrade to the Apprentice Spellbook -- needs diamonds, quartz, and blaze rods. Unlocks Tier 2 glyphs and noticeably more mana capacity."]
+	quest.6000000000000111.title: "Apprentice Tier"
+	quest.6000000000000121.quest_desc: ["Summon and defeat the Wilden. This is Ars Nouveau's boss fight, and it drops a Wilden Tribute -- the key ingredient for the final spellbook tier."]
+	quest.6000000000000121.title: "The Wilden"
+	quest.6000000000000131.quest_desc: ["Craft the Archmage Spellbook. The final tier -- maximum mana, every glyph slot unlocked."]
+	quest.6000000000000131.title: "Archmage"
+	quest.607B241E0FC61867.quest_desc: ["Artifacts are cool and wonderous things. Go find some and try them out."]
+	quest.607B241E0FC61867.title: "Find Something Neat"
+	quest.60A50BC46BBE132A.quest_desc: ["Explore a YUNG's structure -- a reworked dungeon, mineshaft, stronghold, or the new Better Caves underground."]
+	quest.60A50BC46BBE132A.title: "Delve Deep"
+	quest.61E7B96B031E9269.quest_desc: ["Craft a Meteorite Compass and follow it. It points at a Mysterious Cube -- the heart of a meteorite crater."]
+	quest.61E7B96B031E9269.title: "Meteorite Compass"
+	quest.61F45AD7A0A4A6FD.quest_desc: ["Build your first generator. Furnator (burns fuel), Magmator (needs lava), Thermo Generator (needs a hot/cold difference), or Solar Panel (needs sunlight) -- pick whichever suits your base."]
+	quest.61F45AD7A0A4A6FD.title: "Generate Power"
+	quest.61F968F9DBB20B70.quest_desc: ["Spot a Naturalist creature -- bears, mountain goats, and leopards roam the overworld now."]
+	quest.61F968F9DBB20B70.title: "Realistic Wildlife"
+	quest.6B46A15DD858B18D.quest_desc: ["Build a Charger and an Inscriber. The charger makes Fluix Crystals, the inscriber presses processors and name plates."]
+	quest.6B46A15DD858B18D.title: "Charger and Inscriber"
+	quest.6E0AEEF402DE1E94.quest_desc: ["Build your first ME system: Energy Acceptor, Controller, Drive with a Storage Cell, and a Crafting Terminal."]
+	quest.6E0AEEF402DE1E94.title: "ME System Online"
+	quest.7000000000000011.quest_desc: ["Craft and sleep in a Sleeping Bag or Hammock from Comforts -- no bed required, and no explosions in the Nether."]
+	quest.7000000000000011.title: "Rest Anywhere"
+	quest.7000000000000031.quest_desc: ["Craft a Bellows. Keeps nearby fire blocks lit indefinitely and speeds up furnaces and campfires next to it."]
+	quest.7000000000000031.title: "Bellows"
+	quest.7000000000000041.quest_desc: ["Craft a Pedestal. Item display that doubles as a column -- stack two for a taller display, or use it to power up an enchanting table with an End Crystal."]
+	quest.7000000000000041.title: "Pedestal"
+	quest.7000000000000051.quest_desc: ["Craft an Iron Jetpack. You'll need a power source to actually fly with it -- tie it into whatever generator setup you've got, or charge it off a Powah Energy Cell."]
+	quest.7000000000000051.title: "Get a Jetpack"
+	quest.7000000000000071.quest_desc: ["Use Riding Utilities to hop on a mob that vanilla wouldn't normally let you ride."]
+	quest.7000000000000071.title: "Unlikely Mount"
+	quest.7000000000000081.quest_desc: ["Set up a Waystone and use it to fast travel back to base."]
+	quest.7000000000000081.title: "Waystone"
+	quest.70F54FD289C97E10.quest_desc: ["Craft a Powah Energizing Orb -- it unlocks the rest of the mod's crafting tree."]
+	quest.70F54FD289C97E10.title: "Energizing Orb"
+	quest.72EB2DE960E3376B.quest_desc: ["Build your first ME system: Energy Acceptor, Controller, Drive with a Storage Cell, and a Crafting Terminal."]
+	quest.72EB2DE960E3376B.title: "ME System Online"
+	quest.74B6AC7AB55F7825.quest_desc: ["Craft an Exchanging Tool and swap one block type for another across an area. Retexture a whole wall without breaking a single block by hand."]
+	quest.74B6AC7AB55F7825.title: "Swap Materials"
+	quest.7675538F58D98053.quest_desc: ["Tame a Cockatrice. Careful with this one -- its gaze turns things to stone if you're not prepared."]
+	quest.7675538F58D98053.title: "Tame a Cockatrice"
+	quest.772C3EAABB9B94E7.quest_desc: ["Craft an Alloy Forge and a Material Grader. Silent Gear's core stations -- combine and grade materials before you build tools with them."]
+	quest.772C3EAABB9B94E7.title: "Silent Gear Basics"
+	quest.79CE8E04E0727F5C.quest_desc: ["Craft a Salvager. Breaks down old tools back into materials -- good for reclaiming a bad material roll instead of wasting it."]
+	quest.79CE8E04E0727F5C.title: "Salvager"
+	quest.7A3E1271AEF2325C.quest_desc: ["Craft a Meteorite Compass and follow it. It points at a meteorite crater -- the heart of AE2's early game."]
+	quest.7A3E1271AEF2325C.title: "Meteorite Compass"
+	quest.7AB89AF9D46E8AC4.quest_desc: ["Mine Raw Uraninite. This is Powah's endgame material -- the road to nuclear reactors starts here."]
+	quest.7AB89AF9D46E8AC4.title: "Uraninite"
+	quest.7FE989521CB38B94.quest_desc: ["Build a Solar Panel or Thermo Generator -- your first automated power source."]
+	quest.7FE989521CB38B94.title: "Generate Power"
+	task.01671E8383DED8CE.title: "Spot a Naturalist Animal"
+	task.02A9F18A3F507E67.title: "Explore a YUNG's Structure"
+	task.04DF8F8EF989E28B.title: "Stone Anvil and Crude Knife"
+	task.0560CE3BB56A448B.title: "Find a Town or Tower"
+	task.06EFBE7045D7A754.title: "First ME System"
+	task.0FD3007B470BA7A8.title: "Find a Town or Tower"
+	task.1000000000000042.title: "Any #minecraft:beds"
+	task.1000000000000052.title: "Ready to go"
+	task.15BBE7DD365EEB81.title: "Tame a Dragon"
+	task.1AA62B8A016D6C5C.title: "First Generator"
+	task.2000000000000052.title: "Power Source Online"
+	task.2000000000000132.title: "Foundations Complete"
+	task.2A15679DD09D0B74.title: "Meet an Alex's Mobs Creature"
+	task.2B5980FBF12F2654.title: "First ME System"
+	task.2E180B3A805D4FD8.title: "Equip an Artifact"
+	task.2F87AB3873D5C5C1.title: "Find a Meteorite"
+	task.2FE440E1705E8DC5.title: "Tame a Dragon"
+	task.3000000000000002.title: "Choose Your Path"
+	task.3000000000000052.title: "First Flight"
+	task.3000000000000072.title: "Wire It Up"
+	task.3000000000000082.title: "Power Grid Online"
+	task.3000000000000092.title: "Build the Setup"
+	task.3000000000000102.title: "Enchant Something"
+	task.30B4EE47D99F6B1D.title: "Find a Dragon"
+	task.32E2EBB5B85DAB72.title: "Meet an Alex's Mobs Creature"
+	task.35641D887ABF7EC7.title: "Explore a YUNG's Structure"
+	task.3584776F54E6413C.title: "Any #c:fences/wooden"
+	task.3CE9A7986FCFAED6.title: "Any #curios:curio"
+	task.3DBCF7567EE31DA8.title: "Spot a Naturalist Animal"
+	task.4000000000000072.title: "A Proper Room"
+	task.45F6D2CD0FEFFD05.title: "Energizing Orb"
+	task.4B54D7A89EC7E1FB.title: "Your First Custom Tool"
+	task.4DF8633E4C65C64A.title: "Twerk 2 Grow"
+	task.5000000000000032.title: "Right Click Harvest"
+	task.5000000000000042.title: "A Real Meal"
+	task.5000000000000092.title: "Right Click Harvest"
+	task.5000000000000102.title: "The Signature Dish"
+	task.51314AA5118F1F3C.title: "Equip an Artifact"
+	task.54FCE7C3A71D29EB.title: "Custom Tool"
+	task.560B13A442C22099.title: "Your First Custom Tool"
+	task.5B7D0F25FFFEE70E.title: "Find a Meteorite"
+	task.5E64B665DDCCC4FE.title: "First Generator"
+	task.6000000000000032.title: "First Spell Cast"
+	task.6000000000000042.title: "Found Archwood"
+	task.6000000000000062.title: "Passive Mana Source"
+	task.6000000000000072.title: "Passive Mana Source"
+	task.6000000000000092.title: "Get a Familiar"
+	task.6000000000000122.title: "Defeat the Wilden"
+	task.6220BA770AAFD51C.title: "Any #classicpipes:pipes/networked"
+	task.65FBCEA1113854E9.title: "Stone Anvil and Crude Knife"
+	task.6990C6AD3D4AA58D.title: "Any #classicpipes:pipes/item"
+	task.742EF56BAB6A188F.title: "Energizing Orb"
+}

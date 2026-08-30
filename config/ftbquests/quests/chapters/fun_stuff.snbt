@@ -1,0 +1,147 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fun_stuff"
+	group: ""
+	hide_quest_until_deps_complete: true
+	icon: {
+		components: {
+			"ftbquests:missing_item": "ironjetpacks:iron_jetpack"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "7000000000000001"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1000000000000051"]
+			icon: {
+				id: "minecraft:white_bed"
+			}
+			id: "7000000000000011"
+			rewards: [{
+				id: "7000000000000014"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "7F8DA1C763F48384"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(comforts:hammocks)item_tag(comforts:sleeping_bags))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000000051"]
+			icon: {
+				id: "supplementaries:bellows"
+			}
+			id: "7000000000000031"
+			rewards: [{
+				id: "7000000000000034"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3930630BDB40ABD0"
+				item: { count: 1, id: "supplementaries:bellows" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1000000000000051"]
+			icon: {
+				id: "supplementaries:pedestal"
+			}
+			id: "7000000000000041"
+			rewards: [{
+				id: "7000000000000044"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "1283A081B344909E"
+				item: { count: 1, id: "supplementaries:pedestal" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1000000000000051"]
+			icon: {
+				components: {
+					"ironjetpacks:jetpack_id": "ironjetpacks:diamond"
+				}
+				id: "ironjetpacks:jetpack"
+			}
+			id: "7000000000000051"
+			rewards: [{
+				id: "7000000000000054"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "05BC801C81188623"
+				item: { components: { "ftbfiltersystem:filter": "or(item(ironjetpacks:jetpack))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000000051"]
+			icon: {
+				id: "minecraft:saddle"
+			}
+			id: "7000000000000071"
+			rewards: [{
+				id: "7000000000000074"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "57E6F3ECC4074E2E"
+				item: { count: 1, id: "ridingutils:lasso" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1000000000000051"]
+			icon: {
+				id: "waystones:waystone"
+			}
+			id: "7000000000000081"
+			rewards: [{
+				id: "7000000000000084"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "7000000000000082"
+				item: { count: 1, id: "waystones:waystone" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1000000000000051"]
+			id: "607B241E0FC61867"
+			tasks: [{
+				id: "6E99C4D759DA3BBB"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(artifacts))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+	]
+}

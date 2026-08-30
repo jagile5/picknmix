@@ -1,0 +1,187 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "furniture_and_decoration"
+	group: ""
+	hide_quest_details_until_startable: true
+	icon: {
+		id: "minecraft:chiseled_stone_bricks"
+	}
+	id: "4000000000000001"
+	images: [ ]
+	order_index: 3
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1000000000000051"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "rechiseled:chisel"
+			}
+			id: "4000000000000011"
+			rewards: [{
+				id: "4000000000000013"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "2A3916097E31E167"
+				item: { count: 1, id: "rechiseled:chisel" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4000000000000011"]
+			icon: {
+				id: "mcwfurnitures:oak_chair"
+			}
+			id: "4000000000000021"
+			rewards: [{
+				id: "4000000000000023"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "44C27FE0749CBE0E"
+					item: { count: 1, id: "mcwfurnitures:cabinet_door" }
+					type: "item"
+				}
+				{
+					id: "6CE428E0C54746F5"
+					item: { count: 1, id: "mcwfurnitures:cabinet_drawer" }
+					type: "item"
+				}
+				{
+					id: "7602992C307E1546"
+					item: { count: 1, id: "mcwfurnitures:oak_chair" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4000000000000011"]
+			icon: {
+				id: "mcwfences:oak_picket_fence"
+			}
+			id: "4000000000000031"
+			rewards: [{
+				id: "4000000000000033"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "3584776F54E6413C"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:fences/wooden)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4000000000000011"]
+			icon: {
+				id: "minecraft:glass_pane"
+			}
+			id: "4000000000000041"
+			rewards: [{
+				id: "4000000000000043"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "55363E94AAE4CBA1"
+					item: { count: 1, id: "mcwwindows:window_base" }
+					type: "item"
+				}
+				{
+					id: "4CC85ED6A40DA67F"
+					item: { count: 1, id: "mcwwindows:hammer" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4000000000000011"]
+			icon: {
+				id: "mcwroofs:oak_roof"
+			}
+			id: "4000000000000051"
+			rewards: [{
+				id: "4000000000000053"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "3802A1844B7DF7A8"
+				item: { count: 1, id: "mcwroofs:roofing_hammer" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4000000000000011"]
+			icon: {
+				id: "mcwpaths:andesite_strewn_rocky_path"
+			}
+			id: "4000000000000061"
+			rewards: [{
+				id: "4000000000000063"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "2DB50E0AE772D0D8"
+				item: { count: 1, id: "mcwpaths:andesite_strewn_rocky_path" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"4000000000000021"
+				"4000000000000031"
+				"4000000000000041"
+				"4000000000000051"
+				"4000000000000061"
+			]
+			icon: {
+				id: "minecraft:painting"
+			}
+			id: "4000000000000071"
+			rewards: [
+				{
+					id: "4000000000000074"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "3FDCE19BAF307C65"
+					item: {
+						count: 1
+						id: "rechiseled:diamond_block_chiseled"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "4000000000000072"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+}

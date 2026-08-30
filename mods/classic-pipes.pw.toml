@@ -1,0 +1,13 @@
+name = "Classic Pipes"
+filename = "classicpipes-neoforge-1.21.1-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xX5VOqpH/versions/MEmqHmJZ/classicpipes-neoforge-1.21.1-1.1.7.jar"
+hash-format = "sha512"
+hash = "3dee5eae85bf7c10acc96db26a51f0592eb83157a64df2983704c2cecef132b6dd9c97cf4646b1e5e73bf9d262741a0a1e747d1005336d31ec5958b049dec4a7"
+
+[update]
+[update.modrinth]
+mod-id = "xX5VOqpH"
+version = "MEmqHmJZ"

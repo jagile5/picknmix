@@ -1,0 +1,130 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "logistics_and_automation"
+	group: ""
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "minecraft:hopper"
+	}
+	id: "2112F43D13346B14"
+	images: [ ]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1000000000000051"]
+			icon: {
+				id: "buildinggadgets2:gadget_building"
+			}
+			id: "033C662007C8DB7C"
+			rewards: [{
+				id: "365D99C7BB97C401"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "6F98FD55A4452B3D"
+				item: { count: 1, id: "buildinggadgets2:gadget_copy_paste" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["033C662007C8DB7C"]
+			icon: {
+				id: "minecraft:iron_pickaxe"
+			}
+			id: "74B6AC7AB55F7825"
+			rewards: [{
+				id: "01497D8D8F7F6F0E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "0B12C2F39E0CA4BE"
+				item: { count: 1, id: "buildinggadgets2:gadget_exchanging" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000000051"]
+			icon: {
+				id: "minecraft:redstone"
+			}
+			id: "5601802FEDAD0AB8"
+			rewards: [{
+				id: "4A86424B5304BAA9"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "51B9F0D3124ECB54"
+				item: { count: 1, id: "morered:soldering_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["51B9F0D3124ECB54"]
+			icon: {
+				id: "minecraft:comparator"
+			}
+			id: "120958A4E6DEFAFC"
+			rewards: [{
+				id: "745981ADC25D2D26"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "23A40E12FB162CB3"
+				item: { count: 1, id: "morered:xor_gate" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1000000000000051"]
+			icon: {
+				id: "minecraft:copper_ingot"
+			}
+			id: "105E7C45B32E7896"
+			rewards: [{
+				id: "048CC4A273F8AFDC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6990C6AD3D4AA58D"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(classicpipes:pipes/item)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["105E7C45B32E7896"]
+			icon: {
+				id: "minecraft:hopper"
+			}
+			id: "03E5DE83CEC81B1B"
+			rewards: [{
+				id: "4564580EFF79DDFB"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6220BA770AAFD51C"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(classicpipes:pipes/networked)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+	]
+}

@@ -1,0 +1,13 @@
+name = "Riding Utilities"
+filename = "ridingutils-neoforge-1.21.1-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rCtFEieK/versions/jBpFvtiP/ridingutils-neoforge-1.21.1-2.2.0.jar"
+hash-format = "sha512"
+hash = "87841a5d7fc0a2b9036c95dffc4f51b48a50d8bd7a68bd4cff0240040d1c766ada846ad523fe464c2f7b1a2bd94dfa57fb2fd1e9739d3a76719952fcad526349"
+
+[update]
+[update.modrinth]
+mod-id = "rCtFEieK"
+version = "jBpFvtiP"

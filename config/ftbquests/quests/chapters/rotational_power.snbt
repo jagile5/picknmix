@@ -1,0 +1,438 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "rotational_power"
+	group: ""
+	hide_quest_details_until_startable: true
+	icon: {
+		id: "create:cogwheel"
+	}
+	id: "2000000000000001"
+	images: [ ]
+	order_index: 1
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1000000000000051"]
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			icon: {
+				id: "create:cogwheel"
+			}
+			id: "2000000000000011"
+			rewards: [{
+				count: 4
+				id: "2000000000000013"
+				item: {
+					count: 1
+					id: "create:cogwheel"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2000000000000012"
+				item: { count: 1, id: "create:cogwheel" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2000000000000011"]
+			icon: {
+				id: "create:water_wheel"
+			}
+			id: "2000000000000021"
+			rewards: [{
+				id: "2000000000000023"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2000000000000022"
+				item: { count: 1, id: "create:water_wheel" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2000000000000011"]
+			icon: {
+				id: "create:windmill_bearing"
+			}
+			id: "2000000000000031"
+			rewards: [{
+				id: "2000000000000033"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2000000000000032"
+				item: { count: 1, id: "create:windmill_bearing" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2000000000000051"]
+			icon: {
+				id: "create:encased_fan"
+			}
+			id: "2000000000000041"
+			rewards: [{
+				id: "37E27B9F560AA18F"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "2000000000000042"
+				item: { count: 1, id: "create:encased_fan" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2000000000000011"]
+			icon: {
+				id: "create:blaze_burner"
+			}
+			id: "2000000000000141"
+			rewards: [{
+				id: "2000000000000143"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2000000000000142"
+				item: { count: 1, id: "create:empty_blaze_burner" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2000000000000051"]
+			icon: {
+				id: "create:mechanical_press"
+			}
+			id: "2000000000000061"
+			rewards: [{
+				id: "2000000000000063"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "2000000000000062"
+				item: { count: 1, id: "create:mechanical_press" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2000000000000051"]
+			icon: {
+				id: "create:millstone"
+			}
+			id: "2000000000000071"
+			rewards: [{
+				id: "2000000000000073"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "2000000000000072"
+				item: { count: 1, id: "create:millstone" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2000000000000051"]
+			icon: {
+				id: "create:mechanical_mixer"
+			}
+			id: "2000000000000081"
+			rewards: [{
+				count: 8
+				id: "2000000000000083"
+				item: {
+					count: 1
+					id: "create:andesite_alloy"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2000000000000082"
+					item: { count: 1, id: "create:mechanical_mixer" }
+					type: "item"
+				}
+				{
+					id: "2000000000000084"
+					item: { count: 1, id: "create:basin" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2000000000000051"]
+			icon: {
+				id: "create:crushing_wheel"
+			}
+			id: "2000000000000091"
+			rewards: [{
+				id: "2000000000000093"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2000000000000092"
+				item: { count: 1, id: "create:crushing_wheel" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2000000000000121"]
+			icon: {
+				id: "create:deployer"
+			}
+			id: "2000000000000101"
+			rewards: [{
+				id: "2000000000000103"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2000000000000102"
+				item: { count: 1, id: "create:deployer" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"2000000000000101"
+				"2000000000000181"
+			]
+			icon: {
+				id: "create:mechanical_arm"
+			}
+			id: "2000000000000151"
+			rewards: [{
+				id: "2000000000000153"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2000000000000152"
+				item: { count: 1, id: "create:mechanical_arm" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2000000000000051"]
+			icon: {
+				id: "create:mechanical_saw"
+			}
+			id: "2000000000000111"
+			rewards: [{
+				id: "2000000000000113"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "2000000000000112"
+				item: { count: 1, id: "create:mechanical_saw" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2000000000000081"]
+			icon: {
+				id: "create:fluid_pipe"
+			}
+			id: "2000000000000161"
+			rewards: [{
+				id: "2000000000000163"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					id: "2000000000000162"
+					item: { count: 1, id: "create:fluid_pipe" }
+					type: "item"
+				}
+				{
+					id: "2000000000000164"
+					item: { count: 1, id: "create:fluid_tank" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2000000000000161"]
+			icon: {
+				id: "create:mechanical_pump"
+			}
+			id: "2000000000000171"
+			rewards: [{
+				id: "2000000000000173"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					id: "2000000000000172"
+					item: { count: 1, id: "create:mechanical_pump" }
+					type: "item"
+				}
+				{
+					id: "2000000000000174"
+					item: { count: 1, id: "create:spout" }
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"2000000000000081"
+				"2000000000000141"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "create:brass_ingot"
+			}
+			id: "2000000000000121"
+			rewards: [{
+				count: 8
+				id: "2000000000000123"
+				item: {
+					count: 1
+					id: "create:brass_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2000000000000122"
+				item: { count: 1, id: "create:brass_ingot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2000000000000101"]
+			icon: {
+				id: "create:precision_mechanism"
+			}
+			id: "2000000000000181"
+			rewards: [{
+				id: "2000000000000183"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2000000000000182"
+				item: { count: 1, id: "create:precision_mechanism" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"2000000000000181"
+				"2000000000000171"
+				"2000000000000061"
+				"2000000000000091"
+				"2000000000000111"
+			]
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "2000000000000131"
+			rewards: [
+				{
+					id: "2000000000000133"
+					type: "loot"
+				}
+				{
+					id: "2000000000000134"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "2000000000000132"
+				type: "checkmark"
+			}]
+			x: 9.75d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"2000000000000021"
+				"2000000000000031"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "minecraft:redstone"
+			}
+			id: "2000000000000051"
+			rewards: [{
+				count: 16
+				id: "39E2700ADA9F716B"
+				item: {
+					count: 1
+					id: "create:shaft"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2000000000000052"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2000000000000051"]
+			id: "5313AC5FA103673A"
+			rewards: [{
+				id: "05511D23A6EFDC5A"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "7FA0C95F2E018E87"
+				item: { count: 1, id: "create:mechanical_bearing" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+}

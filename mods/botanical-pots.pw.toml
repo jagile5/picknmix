@@ -1,0 +1,13 @@
+name = "Botanical Pots"
+filename = "botanical-pots-1.7+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CIBZjcRo/versions/aRG2pBSR/botanical-pots-1.7%2B1.21.jar"
+hash-format = "sha512"
+hash = "89e0f739acd9330e7d848e2ac1693bb4f11a9f3120e796af94a16b527405bcb9004e335dd105ff2901b1d3ff0e112174c053e2959833223ae3886d75ffc89120"
+
+[update]
+[update.modrinth]
+mod-id = "CIBZjcRo"
+version = "aRG2pBSR"

@@ -1,0 +1,132 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "exploration_and_creatures"
+	group: ""
+	icon: {
+		id: "iceandfire:dragonbone"
+	}
+	id: "5143EDE95AB76A8E"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1000000000000051"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "iceandfire:hippogryph"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "5B5E5B5A5904DAA3"
+			rewards: [{
+				id: "718C6F7E5E4DE96D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/tame_hippogryph"
+				criterion: ""
+				id: "30B3C5A32B16F1B6"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1000000000000051"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "iceandfire:cockatrice"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "7675538F58D98053"
+			rewards: [{
+				id: "7975C6AE2236CAB9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/tame_cockatrice"
+				criterion: ""
+				id: "167351D2CE9DCD95"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1000000000000051"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "iceandfire:hydra"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "549AF70CAE9BE9A5"
+			rewards: [{
+				id: "4BAE588B72A99CAB"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_hydra"
+				criterion: ""
+				id: "60059699A9AC4C52"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1000000000000051"]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
+			icon: {
+				id: "iceandfire:fire_dragon_heart"
+			}
+			id: "1F79825167DD6DCD"
+			rewards: [{
+				count: 4
+				id: "3BE7DB4EA5A5F358"
+				item: {
+					count: 1
+					id: "iceandfire:dragonscale_red"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "30B4EE47D99F6B1D"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1F79825167DD6DCD"]
+			icon: {
+				id: "iceandfire:dragonsteel_fire_ingot"
+			}
+			id: "00FE641023143CC6"
+			rewards: [{
+				id: "53F548C4E130CE4E"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "04ACF1E477CD17AB"
+				item: { count: 1, id: "iceandfire:dragonsteel_fire_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+}
