@@ -133,6 +133,11 @@ file = "config/iceandfire/iaf-common.json"
 hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
 
 [[files]]
+file = "mods/advanced-core-info.pw.toml"
+hash = "0279153d78d0fe954ce928cb3a853af79bb41e7ea184afd1ff3ffc4dc930a429"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "496607b87df699df9f82835a8df984946fa5c30ca2992fcb0fb3b3c5df69a048"
 metafile = true
@@ -174,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "416b7f130791397fb2ceb9e89ce3fd0e870f207c8e40b759c069cb58b7544314"
+hash = "93c413ff9f724a5e296b5fd628e652af46bef38bcc2d9f720546797c96700f52"
 metafile = true
 
 [[files]]
