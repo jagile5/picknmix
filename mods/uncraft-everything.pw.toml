@@ -1,0 +1,13 @@
+name = "Uncraft Everything"
+filename = "uncrafteverything-2.1.5+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a0b482a89752733203af4bffb0798628b11ff38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8972732
+project-id = 1244428

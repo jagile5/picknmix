@@ -1,0 +1,13 @@
+name = "More Curios Slots"
+filename = "more_curios_slots-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v4mOUzHT/versions/JyvdZSA0/more_curios_slots-1.4.jar"
+hash-format = "sha512"
+hash = "1bd7fcd8990e5c7919b6dd4b4f0e2847630bbee83e60fe5b769cf9c558a49dfacf6ef432434cb174fcaa705731c0d74bd61e492c92b97d90bccf77e44b0aa1cd"
+
+[update]
+[update.modrinth]
+mod-id = "v4mOUzHT"
+version = "JyvdZSA0"
